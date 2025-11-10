@@ -6,7 +6,6 @@ Este repositorio contiene un ejemplo básico de programación inicial en lenguaj
 ## Sobre el uso de Python
 Se ha elegido Python para esta tarea porque es un lenguaje de programación de **propósito general** que es muy **sencillo y fácil de aprender**, siendo al mismo tiempo **potente y versátil**.
 El objetivo primordial de Python es su **legibilidad.
-## URl del proyecto: [https://manuruizflor870.github.io/PIA01_Tarea_hola_mundo/]
 ## Estructura del Proyecto es:
 Este repositorio contiene un único archivo de código:
 ### `hola_mundo.py`
